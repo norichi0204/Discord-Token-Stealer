@@ -1,1 +1,1 @@
-# Discord-Token-Stealer
+# Discordの乗っ取りツール
